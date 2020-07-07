@@ -20,3 +20,8 @@ Implementing designs using appropriate data structures, frameworks, and APIs.
 Prerequisite: CIS 268 or EGR 121. (3 units; Fall)
 
 ```
+
+WEEK ONE
+
+* Lecture 1	    x/x	""
+* Lecture 2     x/x	""
