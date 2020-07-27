@@ -4,15 +4,10 @@
 
 //This program demonstrates the print(); vs. the println(); functions
 
-
-
-
-
 package java_basics;
 
 public class PrintDIff {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.print("To be ");
 		System.out.print("or not to be.");
 		System.out.print("That is ");
