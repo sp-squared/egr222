@@ -47,14 +47,35 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.simpleExpression">
-    <configuration name="BMI_Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bmi_calculator.BMI_Calc" />
+  <component name="RunManager" selected="Application.codeAlong_1">
+    <configuration name="FtoC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="expressions.FtoC" />
       <module name="Chapter_2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bmi_calculator.*" />
+          <option name="PATTERN" value="expressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codeAlong_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeAlong_1.codeAlong_1" />
+      <module name="Chapter_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parameters.objects" />
+      <module name="Chapter_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parameters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,10 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="simpleParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parameters.simpleParameters" />
+      <module name="Chapter_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parameters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.codeAlong_1" />
         <item itemvalue="Application.simpleExpression" />
-        <item itemvalue="Application.BMI_Calc" />
+        <item itemvalue="Application.objects" />
+        <item itemvalue="Application.simpleParameters" />
+        <item itemvalue="Application.FtoC" />
       </list>
     </recent_temporary>
   </component>
@@ -106,29 +143,75 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="712" y="348" key="#Notifications" timestamp="1597342201551">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="712" y="348" key="#Notifications/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1597342201551" />
+    <state x="552" y="165" key="#Plugins" timestamp="1598549656500">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="165" key="#Plugins/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1598549656500" />
     <state x="440" y="99" key="#Project_Structure" timestamp="1597218127692">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="#Project_Structure/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1597218127692" />
-    <state x="740" y="242" key="FileChooserDialogImpl" timestamp="1597218197401">
+    <state x="740" y="242" key="FileChooserDialogImpl" timestamp="1598548121197">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="242" key="FileChooserDialogImpl/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1597218197401" />
-    <state width="1877" height="199" key="GridCell.Tab.0.bottom" timestamp="1597218735296">
+    <state x="740" y="242" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1598548121197" />
+    <state width="597" height="609" key="GridCell.Tab.0.bottom" timestamp="1598553384113">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="199" key="GridCell.Tab.0.bottom/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1597218735296" />
-    <state width="1877" height="199" key="GridCell.Tab.0.center" timestamp="1597218735295">
+    <state width="597" height="609" key="GridCell.Tab.0.bottom/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1598553384113" />
+    <state width="252" height="609" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597343812959" />
+    <state width="597" height="609" key="GridCell.Tab.0.center" timestamp="1598553384113">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="199" key="GridCell.Tab.0.center/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1597218735295" />
-    <state width="1877" height="199" key="GridCell.Tab.0.left" timestamp="1597218735295">
+    <state width="597" height="609" key="GridCell.Tab.0.center/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1598553384113" />
+    <state width="252" height="609" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597343812958" />
+    <state width="597" height="609" key="GridCell.Tab.0.left" timestamp="1598553384113">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="199" key="GridCell.Tab.0.left/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1597218735295" />
-    <state width="1877" height="199" key="GridCell.Tab.0.right" timestamp="1597218735296">
+    <state width="597" height="609" key="GridCell.Tab.0.left/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1598553384113" />
+    <state width="252" height="609" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597343812958" />
+    <state width="597" height="609" key="GridCell.Tab.0.right" timestamp="1598553384113">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="199" key="GridCell.Tab.0.right/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1597218735296" />
+    <state width="597" height="609" key="GridCell.Tab.0.right/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1598553384113" />
+    <state width="252" height="609" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597343812959" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1597269895708">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597269895708" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1597269895708">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597269895708" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1597269895708">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597269895708" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1597269895708">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597269895708" />
+    <state x="812" y="271" key="SettingsEditor" timestamp="1597341613277">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="812" y="271" key="SettingsEditor/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1597341613277" />
+    <state x="620" y="163" key="new project wizard" timestamp="1598550102042">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="620" y="163" key="new project wizard/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1598550102042" />
+    <state x="1031" y="148" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1598548126198" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1597338731609">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/-1366.0.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1597338731609" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1597269152593">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1597269152593" />
   </component>
 </project>
