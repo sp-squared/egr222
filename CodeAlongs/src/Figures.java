@@ -2,7 +2,7 @@
 // Drawing Complex Figures using static methods
 
 public class Figures {
-    public static void main(String[] args) {
+    public static void main(ConvertNames[] args) {
         egg();
         cup();
         stopSign();
